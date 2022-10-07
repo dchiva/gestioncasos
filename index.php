@@ -8,4 +8,6 @@
 
     echo "Yep2";
 
+    echo "Algo";
+
 ?>
