@@ -6,4 +6,6 @@
 
     echo "Yep";
 
+    echo "Yep2";
+
 ?>
